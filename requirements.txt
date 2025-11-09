@@ -1,0 +1,7 @@
+streamlit
+yt-dlp
+Pillow
+requests
+# ffmpeg, yt-dlp'nin MP3 ve video işlemlerini yapması için zorunludur.
+# Streamlit Cloud'un Linux ortamında otomatik kurulur, ancak emin olmak için ekleyebiliriz.
+# Streamlit Cloud genellikle arka planda halleder, bu listeyi minimum tutmak daha iyidir.
